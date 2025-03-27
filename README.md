@@ -33,6 +33,8 @@ Learn more about the API [here](https://api.nbp.pl/).
 ```bash
 # Install dependencies
 npm install
+npm install -D sass
+npm install -D tailwindcss postcss autoprefixer
 
 # Run the app locally
 npm run dev
